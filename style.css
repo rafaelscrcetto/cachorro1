@@ -3,9 +3,12 @@ h1{
 }
 
 p{
-   color: black;
+   color: rgb(0, 0, 0);
    font-size: 20px;
 }
 h1{
     color: blue;
+}
+p{
+color: black;
 }
