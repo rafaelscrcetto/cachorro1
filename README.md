@@ -12,9 +12,3 @@
    <img src="cac" alt="Imagem do cac">
 </body>
 </html>
-
-
-h1{
-   color:darkblue
-}
-
