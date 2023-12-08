@@ -18,8 +18,6 @@
        3 Se não for castrada, uma cachorra pode ter 66 filhotes em 6 anos;
 
        4 A audição canina é 10 vezes melhor do que a dos humanos;</p>
-      <img src="cachorro2.jpg" alt="Imagem do Cachorro2">
+     <img src="cachorro3.jpg" alt="Imagem do Cachorro3">
 </body>
 </html>
-
-  
