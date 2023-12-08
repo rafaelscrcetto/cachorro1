@@ -21,5 +21,5 @@
       <img src="cachorro2.jpg" alt="Imagem do Cachorro2">
 </body>
 </html>
-<h1> Curiosidades sobre CACHORROS </h1>
+
   
