@@ -12,12 +12,9 @@
    <img src="cac" alt="Imagem do cac">
      <p>
        1 O olfato canino é 1 milhão de vezes melhor do que o dos humanos;
-
        2 Castrar seu cachorro pode ajudar a prevenir alguns tipos de câncer;
-
        3 Se não for castrada, uma cachorra pode ter 66 filhotes em 6 anos;
-
-       4 A audição canina é 10 vezes melhor do que a dos humanos;</p>
+       4 A audição canina é 10 vezes melhor do que a dos humanos; </p>
      <img src="cachorro3.jpg" alt="Imagem do Cachorro3">
 </body>
 </html>
